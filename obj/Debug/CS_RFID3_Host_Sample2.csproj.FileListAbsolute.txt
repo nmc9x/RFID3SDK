@@ -1,0 +1,14 @@
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\bin\Debug\RFIDAPI32PC.dll
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\bin\Debug\CS_RFID3_Host_Sample2.exe.config
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\bin\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\bin\Debug\CS_RFID3_Host_Sample2.pdb
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\bin\Debug\Symbol.RFID3.Host.dll
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.AssemblyReference.cache
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.SuggestedBindingRedirects.cache
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.ConnectionForm.resources
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.Properties.Resources.resources
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.GenerateResource.cache
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.CoreCompileInputs.cache
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.csproj.CopyComplete
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.exe
+C:\Users\minhchau.nguyen\Desktop\C#\CS_RFID3_Host_Sample2\obj\Debug\CS_RFID3_Host_Sample2.pdb
